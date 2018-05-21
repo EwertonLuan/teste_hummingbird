@@ -13,8 +13,6 @@
     padding: 0px;
     font-family: AtlasGrotesk, sans-serif;
     font-size: 14px;
-
-
 }
 
 html body{
@@ -127,17 +125,7 @@ header .top-menu-container{
     height:32px;
     display: block;
 }
-main .layout{
-    content: "";
-    position: relative;
-    z-index: 2;
-    flex: 1;
-    width: 420px;
-    margin-left: 40px;
-    outline: none;
-    background-color: red;
-    display: block
-}
+
 @media(min-width: 735px){
     header .header-icon{
         display: none
